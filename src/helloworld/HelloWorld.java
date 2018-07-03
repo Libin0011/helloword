@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World! from libin xiugaiyixia333nanshou");
+		System.out.println("Hello World! from libin ¿Ó±Ú£¨∆Î¡¨Ω‹");
 
 	}
 
